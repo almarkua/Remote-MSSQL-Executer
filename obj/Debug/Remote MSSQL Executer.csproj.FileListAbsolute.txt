@@ -1,0 +1,13 @@
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\bin\Debug\Remote MSSQL Executer.exe.config
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\bin\Debug\Remote MSSQL Executer.exe
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\bin\Debug\Remote MSSQL Executer.pdb
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote MSSQL Executer.csprojResolveAssemblyReference.cache
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\MainWindow.baml
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\MainWindow.g.cs
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\App.g.cs
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote MSSQL Executer_MarkupCompile.cache
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote MSSQL Executer.g.resources
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote_MSSQL.Properties.Resources.resources
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote MSSQL Executer.csproj.GenerateResource.Cache
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote MSSQL Executer.exe
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\Remote MSSQL Executer\obj\Debug\Remote MSSQL Executer.pdb

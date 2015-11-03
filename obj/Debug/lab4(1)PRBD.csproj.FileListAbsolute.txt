@@ -1,0 +1,13 @@
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Debug\lab4(1)PRBD.exe.config
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Debug\lab4(1)PRBD.exe
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Debug\lab4(1)PRBD.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4(1)PRBD.csprojResolveAssemblyReference.cache
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\MainWindow.baml
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\MainWindow.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\App.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4(1)PRBD_MarkupCompile.cache
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4(1)PRBD.g.resources
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4_1_PRBD.Properties.Resources.resources
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4(1)PRBD.csproj.GenerateResource.Cache
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4(1)PRBD.exe
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Debug\lab4(1)PRBD.pdb

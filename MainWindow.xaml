@@ -1,0 +1,19 @@
+﻿<Window x:Class="lab4_1_PRBD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Queries" Height="482" Width="618">
+    <Grid>
+        <Label Content="Query:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="QueryTextBox" Height="26" Margin="60,10,95,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="{Binding Query}"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="17,41,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ExecuteButton" Content="Execute" Margin="0,10,10,0" VerticalAlignment="Top" Height="26" HorizontalAlignment="Right" Width="75" Command="{Binding ExecuteButtonClickCommand}"/>
+        <GroupBox Header="Result" Margin="10,41,209,10">
+            <DataGrid x:Name="ResultDataGrid" Margin="0,0,-2,0" ItemsSource="{Binding ResultTable, Mode=TwoWay}" AutoGenerateColumns="True"/>
+        </GroupBox>
+        <GroupBox Header="Parameters" Margin="0,41,10,10" HorizontalAlignment="Right" Width="194">
+            <DataGrid x:Name="ParabetersDataGrid" RenderTransformOrigin="-3.667,-2.154" Margin="0,0,-2,0" ItemsSource="{Binding Parameters}" AutoGenerateColumns="True" CanUserAddRows="True" IsReadOnly="False"/>
+        </GroupBox>
+
+
+    </Grid>
+</Window>

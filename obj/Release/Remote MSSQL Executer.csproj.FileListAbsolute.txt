@@ -1,0 +1,3 @@
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Release\Remote MSSQL Executer.exe.config
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote MSSQL Executer.exe
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote MSSQL Executer.pdb

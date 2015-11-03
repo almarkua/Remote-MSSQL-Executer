@@ -1,0 +1,13 @@
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\MainWindow.baml
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\MainWindow.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\App.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\lab4(1)PRBD.csproj.GenerateResource.Cache
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\lab4(1)PRBD.csprojResolveAssemblyReference.cache
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Release\Remote MSSQL Executer.exe.config
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Release\Remote MSSQL Executer.exe
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\bin\Release\Remote MSSQL Executer.pdb
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote MSSQL Executer_MarkupCompile.cache
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote MSSQL Executer.g.resources
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote_MSSQL.Properties.Resources.resources
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote MSSQL Executer.exe
+C:\Users\Олександр\Documents\Visual Studio 2013\Projects\lab4(1)PRBD\lab4(1)PRBD\obj\Release\Remote MSSQL Executer.pdb
